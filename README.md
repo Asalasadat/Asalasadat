@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asala Abosamra</h1>
-<h3 align="center">A Data Scientist Turning Raw Data Into Intelligent Insights</h3>
+<h3 align="center">Engineering the Flow from Raw Data to Actionable Intelligence</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
